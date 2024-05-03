@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BiometriCam</string>
+
+
+    <string name="tvVersionAndroidLB">  1.Version Android:</string>
+    <string name="tvVersionAndroid"> </string>
+    <string name="tvLigth">2.Flashlight </string>
+    <string name="tvState">4. Conection </string>
+    <string name="tvGestionPermisos">GESTION PERMISOS</string>
+    <string name="tvDactilar">Status Biometric</string>
+    <string name="tvCamera">Status Permission Camera</string>
+    <string name="tvIws">Status Permission Internal Storage</string>
+    <string name="tvRS">Status Permission Read Storage</string>
+    <string name="tvGPS">Status Permission Galeria</string>
+    <string name="tvResponse"> </string>
+
+
+    //Botones
+    <string name="btnOff">Off</string>
+    <string name="btnOn">On</string>
+    <string name="btnCheckPermission">Check Permission </string>
+    <string name="btnRequestPermission">Request Permission Camera</string>
+    <string name="btnPermissionES">Request Permission IS</string>
+    <string name="btnPermissionRS">Request Permission RS</string>
+    <string name="btnGPS">Request Permission Galeria</string>
+
+
+</resources>
